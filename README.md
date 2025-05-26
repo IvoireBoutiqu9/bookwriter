@@ -10,7 +10,7 @@ The content of each part is then generated, yielding a complete book.
 You need to provide your OpenAI API key by creating a file named ".env" at the root of the repo.\
 The content of the file should be as follows:
 ```
-REACT_APP_OPENAI_API_KEY='sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+REACT_APP_OPENAI_API_KEY='sk-proj-zNWyd2se7DimPa4vcunAAb7EJ5HCctKBLPq-_hW7ONnCRSp6IJyxIGdCsmR0F1'
 ```
 
 # Start the app
